@@ -1,0 +1,483 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "subset2",
+            "request": "launch",
+            "mainClass": "Recursion.subset2",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "partitionpalindrome",
+            "request": "launch",
+            "mainClass": "Recursion.partitionpalindrome",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "subsetsum",
+            "request": "launch",
+            "mainClass": "Recursion.subsetsum",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "fibonnaci",
+            "request": "launch",
+            "mainClass": "Recursion.fibonnaci",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "Recursion.factorial",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "anagram",
+            "request": "launch",
+            "mainClass": "String.anagram",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "compression",
+            "request": "launch",
+            "mainClass": "String.compression",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "insertionsort",
+            "request": "launch",
+            "mainClass": "sorting_algo.insertionsort",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "selection",
+            "request": "launch",
+            "mainClass": "sorting_algo.selection",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "bubble",
+            "request": "launch",
+            "mainClass": "sorting_algo.bubble",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "minimumoins",
+            "request": "launch",
+            "mainClass": "dprevision.minimumoins",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "subsetsum",
+            "request": "launch",
+            "mainClass": "dprevision.subsetsum",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "top",
+            "request": "launch",
+            "mainClass": "Binarytree.top",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "topview",
+            "request": "launch",
+            "mainClass": "Binarytree.topview",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "prebinarytree",
+            "request": "launch",
+            "mainClass": "Binarytree.prebinarytree",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "permutation",
+            "request": "launch",
+            "mainClass": "Backtracking.permutation",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "subset",
+            "request": "launch",
+            "mainClass": "subset.subset",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "clacmod",
+            "request": "launch",
+            "mainClass": "arrayrevision.clacmod",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "threesum",
+            "request": "launch",
+            "mainClass": "arrayrevision.threesum",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "stock",
+            "request": "launch",
+            "mainClass": "arrayrevision.stock",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "rotated",
+            "request": "launch",
+            "mainClass": "arrayrevision.rotated",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "duplicate",
+            "request": "launch",
+            "mainClass": "arrayrevision.duplicate",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "trappedrainwater",
+            "request": "launch",
+            "mainClass": "arrayrevision.trappedrainwater",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "khadansalgo",
+            "request": "launch",
+            "mainClass": "arrayrevision.khadansalgo",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "prefixsum",
+            "request": "launch",
+            "mainClass": "arrayrevision.prefixsum",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "mindistnode",
+            "request": "launch",
+            "mainClass": "practice.mindistnode",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "maxmin",
+            "request": "launch",
+            "mainClass": "segmenttree.maxmin",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "update",
+            "request": "launch",
+            "mainClass": "segmenttree.update",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "queries",
+            "request": "launch",
+            "mainClass": "segmenttree.queries",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "creation",
+            "request": "launch",
+            "mainClass": "segmenttree.creation",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "minimum_part",
+            "request": "launch",
+            "mainClass": "dynamicprogramming.minimum_part",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "minimum_partitioning",
+            "request": "launch",
+            "mainClass": "dynamicprogramming.minimum_partitioning",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "matrixchain",
+            "request": "launch",
+            "mainClass": "dynamicprogramming.matrixchain",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "mountainranges",
+            "request": "launch",
+            "mainClass": "dynamicprogramming.mountainranges",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "countbsts",
+            "request": "launch",
+            "mainClass": "dynamicprogramming.countbsts",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "catalan",
+            "request": "launch",
+            "mainClass": "dynamicprogramming.catalan",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "stringconversion",
+            "request": "launch",
+            "mainClass": "dynamicprogramming.stringconversion",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "editdistance",
+            "request": "launch",
+            "mainClass": "dynamicprogramming.editdistance",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "longestincreasingsub",
+            "request": "launch",
+            "mainClass": "dynamicprogramming.longestincreasingsub",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "longestcommonsubstring",
+            "request": "launch",
+            "mainClass": "dynamicprogramming.longestcommonsubstring",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "taskcommplete",
+            "request": "launch",
+            "mainClass": "graph.taskcommplete",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "unbound_knapsack",
+            "request": "launch",
+            "mainClass": "dynamicprogramming.unbound_knapsack",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "targetsum",
+            "request": "launch",
+            "mainClass": "dynamicprogramming.targetsum",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "unionfind_cycle",
+            "request": "launch",
+            "mainClass": "graph.unionfind_cycle",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "mothervertex",
+            "request": "launch",
+            "mainClass": "graph.mothervertex",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "climbingstair",
+            "request": "launch",
+            "mainClass": "dynamicprogramming.climbingstair",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "kruskalalgorith",
+            "request": "launch",
+            "mainClass": "graph.kruskalalgorith",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "floodfillsalgo",
+            "request": "launch",
+            "mainClass": "graph.floodfillsalgo",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "disjpointsets",
+            "request": "launch",
+            "mainClass": "graph.disjpointsets",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "connectingcities",
+            "request": "launch",
+            "mainClass": "graph.connectingcities",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "cheapestflight",
+            "request": "launch",
+            "mainClass": "graph.cheapestflight",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "primsalgo",
+            "request": "launch",
+            "mainClass": "graph.primsalgo",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "Bellmanfor",
+            "request": "launch",
+            "mainClass": "graph.Bellmanfor",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "wordladder",
+            "request": "launch",
+            "mainClass": "graph.wordladder",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "largestregion",
+            "request": "launch",
+            "mainClass": "graph.largestregion",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "rootenorange",
+            "request": "launch",
+            "mainClass": "graph.rootenorange",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "minimumdepth",
+            "request": "launch",
+            "mainClass": "graph.minimumdepth",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "cycledetectbfs",
+            "request": "launch",
+            "mainClass": "graph.cycledetectbfs",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "Dijkstraalgo",
+            "request": "launch",
+            "mainClass": "graph.Dijkstraalgo",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "topologicalsort",
+            "request": "launch",
+            "mainClass": "graph.topologicalsort",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "detectcylcedirected",
+            "request": "launch",
+            "mainClass": "graph.detectcylcedirected",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "Bipartitie",
+            "request": "launch",
+            "mainClass": "graph.Bipartitie",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "detectcycle",
+            "request": "launch",
+            "mainClass": "graph.detectcycle",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "haspath",
+            "request": "launch",
+            "mainClass": "graph.haspath",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "bfstraversal",
+            "request": "launch",
+            "mainClass": "graph.bfstraversal",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "Transformtree",
+            "request": "launch",
+            "mainClass": "Binarytree.Transformtree",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "longest",
+            "request": "launch",
+            "mainClass": "longest",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
