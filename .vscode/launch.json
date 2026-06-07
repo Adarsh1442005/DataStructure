@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "permutation",
+            "request": "launch",
+            "mainClass": "Recursion.permutation",
+            "projectName": "dsasigma_affce1f0"
+        },
+        {
+            "type": "java",
             "name": "subset2",
             "request": "launch",
             "mainClass": "Recursion.subset2",

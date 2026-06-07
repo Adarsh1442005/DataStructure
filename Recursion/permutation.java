@@ -8,6 +8,7 @@ public class permutation {
         if(perm.length()==nums.length){
             li.add(perm);
         }
+        
         for(int i=0;i<track.length;i++){
             if(track[i]==1){
                 continue;
@@ -18,6 +19,7 @@ public class permutation {
                 track[i]=0;
             }
         }
+        
 
              
 
@@ -30,7 +32,7 @@ public class permutation {
         for(int i=0;i<arr.length;i++){
             arr[i]=Integer.parseInt(obj.readLine());
         }
-        perm(arr, new int[arr.length], null);
+        perm(arr, new int[arr.length], new String());
         System.out.println("permutation are:"+li);
 
 
